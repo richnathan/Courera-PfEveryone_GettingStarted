@@ -1,3 +1,8 @@
+# Coursera Python for informatics,  Getting Started
+# Week 5 Assignment 3.3
+# Nathan Richardson
+# July 2, 2016
+
 score = float(raw_input("Enter Score between 0.0 and 1.0: "))
 
 if score > 1:
