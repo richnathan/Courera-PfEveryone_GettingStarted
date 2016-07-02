@@ -1,3 +1,8 @@
+# Coursera Python for informatics,  Getting Started
+# Week 6 Assignment 4.6
+# Nathan Richardson
+# July 2, 2016
+
 #print "how many hours per week?"
 try:
     hours=float(raw_input("how many hours per week?"))
