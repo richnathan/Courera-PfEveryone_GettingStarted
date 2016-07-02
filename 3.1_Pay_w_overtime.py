@@ -1,5 +1,5 @@
 # Coursera Python for informatics,  Getting Started
-# Assignment 3.1
+# Week 5 Assignment 3.1
 # Nathan Richardson
 # July 2, 2016
 
